@@ -21,3 +21,33 @@ header h1 {
   background-position: top left;
   background-repeat: no-repeat;
 }
+
+footer li {
+  display: inline;
+  padding: 10px;
+}
+
+h1 {
+  color: #8C9273;
+}
+
+nav {
+  float: left;
+  width: 150px;
+}
+
+#content {
+  background-image: url("trans-bg.gif");
+  border: 1px solid #CCCCCC;
+  margin-left: 180px;
+  padding: 10px;
+}
+
+blockquote {
+  padding: 10px;
+  background-color: #FFE597;
+}
+
+#container {
+  margin-bottom: 30px;
+}
